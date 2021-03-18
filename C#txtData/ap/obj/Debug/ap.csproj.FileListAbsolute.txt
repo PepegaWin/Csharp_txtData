@@ -1,0 +1,39 @@
+C:\Users\Nidza\Desktop\apl\apl\ap\bin\Debug\ap.exe.config
+C:\Users\Nidza\Desktop\apl\apl\ap\bin\Debug\ap.exe
+C:\Users\Nidza\Desktop\apl\apl\ap\bin\Debug\ap.pdb
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.csprojAssemblyReference.cache
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.Form1.resources
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.Properties.Resources.resources
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.csproj.GenerateResource.cache
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.csproj.CoreCompileInputs.cache
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.exe
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.pdb
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.Form3.resources
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.Form2.resources
+C:\Users\Nidza\Desktop\apl\apl\ap\obj\Debug\ap.Form4.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\bin\Debug\ap.exe.config
+C:\Users\Windows10 Home\Desktop\apl\ap\bin\Debug\ap.exe
+C:\Users\Windows10 Home\Desktop\apl\ap\bin\Debug\ap.pdb
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.csprojAssemblyReference.cache
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.Form1.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.Form2.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.Form3.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.Form4.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.Properties.Resources.resources
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.csproj.GenerateResource.cache
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.csproj.CoreCompileInputs.cache
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.exe
+C:\Users\Windows10 Home\Desktop\apl\ap\obj\Debug\ap.pdb
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\bin\Debug\ap.exe.config
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\bin\Debug\ap.exe
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\bin\Debug\ap.pdb
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.csprojAssemblyReference.cache
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.Form1.resources
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.Form2.resources
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.Form3.resources
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.Form4.resources
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.Properties.Resources.resources
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.csproj.GenerateResource.cache
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.csproj.CoreCompileInputs.cache
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.exe
+C:\Users\Windows10 Home\Desktop\Desktop\Projekti\Projekat\ap\obj\Debug\ap.pdb

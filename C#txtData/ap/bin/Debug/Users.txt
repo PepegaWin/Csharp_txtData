@@ -1,0 +1,3 @@
+1 Stef 1999 False
+12 Mica 2000 True
+22 mica 2000 True
